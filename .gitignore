@@ -1,0 +1,7 @@
+*.pyc
+*.ipynb
+*.log
+.idea
+venv
+expirements
+.ipynb_checkpoints
